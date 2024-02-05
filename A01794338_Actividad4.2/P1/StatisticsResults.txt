@@ -1,0 +1,56 @@
+File TC1.txt results
+
+File [TC1.txt] statistics results:
+mean = 242.32
+mode = [170.0, 393.0]
+median = 239.5variance = 21099.917599999997
+standard deviation = 145.25810683056557Elapsed time = 0.017949342727661133 seconds
+
+File TC2.txt results
+
+File [TC2.txt] statistics results:
+mean = 250.7840161861406
+mode = 230.0
+median = 247.0variance = 20785.369132479238
+standard deviation = 144.17131868884059Elapsed time = 0.018769025802612305 seconds
+
+File TC3.txt results
+
+File [TC3.txt] statistics results:
+mean = 249.77621989860583
+mode = 94.0
+median = 249.0variance = 21117.27747316329
+standard deviation = 145.31784980917962Elapsed time = 0.025706768035888672 seconds
+
+File TC4.txt results
+
+File [TC4.txt] statistics results:
+mean = 149.00267347908746
+mode = 123.75
+median = 147.75variance = 17007.920843018837
+standard deviation = 130.41441961308894Elapsed time = 0.009999275207519531 seconds
+
+File TC5.txt results
+
+File [TC5.txt] statistics results:
+mean = 241.49511400651465
+mode = [11.0, 19.0, 46.0, 56.0, 64.0, 76.0, 96.0, 166.0, 170.0, 211.0, 215.0, 268.0, 277.0, 278.0, 290.0, 368.0, 375.0, 393.0, 466.0]
+median = 241.0variance = 21160.021963097748
+standard deviation = 145.46484786056646Elapsed time = 0.00749969482421875 seconds
+
+File TC6.txt results
+
+File [TC6.txt] statistics results:
+mean = 1.8790659927977473e+20
+mode = Not defined
+median = 1.88008049965543e+20variance = 1.1530904699530647e+40
+standard deviation = 1.0738205017381e+20Elapsed time = 0.02158522605895996 seconds
+
+File TC7.txt results
+
+File [TC7.txt] statistics results:
+mean = 2.474673954997149e+20
+mode = Not defined
+median = 2.4664097307429e+20variance = 2.0910793147136484e+40
+standard deviation = 1.4460564700984703e+20Elapsed time = 0.024260520935058594 seconds
+
